@@ -87,16 +87,6 @@ Real-world network scanning lab — 8 Nmap scan types, DNS filtering with AdGuar
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyvolovyk-1983-edu&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyvolovyk-1983-edu&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
