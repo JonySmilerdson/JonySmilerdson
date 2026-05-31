@@ -1,34 +1,35 @@
 <div align="center">
 
-# Євген Воловик · Yevhen Volovyk
+# Yevhen Volovyk
 
 ### Network Security Auditor | MikroTik · Kyivstar | Kharkiv, Ukraine
 
-*10+ років у телекомунікаціях · Ветеран ЗСУ · M.Sc. KHAI 2025–2027*
+*6+ years in network infrastructure · Combat veteran, Ukrainian Armed Forces · M.Sc. KHAI 2025–2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-volovyk/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:y.y.volovyk@student.khai.edu)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volovykyevhen@icloud.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yyvolovyk-1983-edu)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+380751484207)
 
 </div>
 
 ---
 
-## Що роблю
+## What I do
 
-Проводжу **авторизований аудит безпеки** локальних мереж та пристроїв для малого і середнього бізнесу.  
-Результат — технічний звіт з класифікацією вразливостей та конкретними кроками усунення.
+I conduct **authorized security audits** of networks and systems for small and medium businesses.  
+Deliverable: a structured technical report with vulnerability classification and remediation steps.
 
-| Напрямок | Що перевіряю | Інструменти |
+| Scope | What I assess | Tools |
 |---|---|---|
-| **LAN аудит** | Відкриті порти, сервіси, сегментація | nmap · Wireshark · Netdiscover |
-| **Wi-Fi безпека** | Шифрування, ізоляція, несанкціоновані точки | Aircrack-ng · Android аудитор |
-| **Пристрої мережі** | Роутери, свічі, MikroTik — дефолтні паролі, CVE | RouterOS · Python toolkit |
-| **Windows endpoint** | Служби, автозапуск, права, логування | PowerShell audit scripts |
+| **LAN audit** | Open ports, services, network segmentation | nmap · Wireshark · Netdiscover |
+| **Wi-Fi security** | Encryption, isolation, rogue access points | Aircrack-ng · Android auditor |
+| **Network devices** | Routers, switches, MikroTik — default creds, CVEs | RouterOS · Python toolkit |
+| **Windows endpoints** | Services, autoruns, privileges, logging | PowerShell audit scripts |
 
 ---
 
-## Стек
+## Stack
 
 <div align="center">
 
@@ -41,47 +42,49 @@
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 
 </div>
 
 ---
 
-## Ключові проекти
+## Key Projects
 
 ### [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit)
-PowerShell-скрипт аудиту та захисту Windows 11 — 12 категорій перевірки, автоматичне усунення.
+PowerShell-based Windows 11 security audit and hardening — 12 verification categories, automated remediation.
 
 ### [router-security-toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit)
-Python-інструменти для аудиту роутерів — CVE-бекдори, дефолтні паролі, UPnP, SSL.  
-*Реальний кейс: Xiaomi Mi Router AX1800 — 27 знахідок, оцінка D → B+ за 48 годин.*
+Python tools for authorized router auditing — CVE detection, default credentials, UPnP, SSL.  
+*Case study: Xiaomi Mi Router AX1800 — 27 findings, security rating D → B+ in 48 hours.*
 
 ### [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor)
-Android-додаток (Kotlin/MVVM) для аналізу Wi-Fi — evil twin, класифікація шифрування.
+Android app (Kotlin/MVVM) for Wi-Fi analysis — evil twin detection, encryption classification.
 
 ### [network-security-lab](https://github.com/yyvolovyk-1983-edu/network-security-lab)
-Лабораторія реальних мережевих сканувань — 8 типів Nmap, DNS-фільтрація AdGuard Home.
+Real-world network scanning lab — 8 Nmap scan types, DNS filtering with AdGuard Home.
 
 ---
 
-## Досвід
+## Experience
 
 ```
-2024 – 2026   Інженер телекомунікацій · Kyivstar
-              Обслуговування мережевої інфраструктури оператора
+2024 – present   Telecommunications Engineer · Kyivstar
+                 Traffic analysis (Wireshark, tcpdump, nmap) on live ISP infrastructure
 
-2023 – 2024   Командир взводу · Збройні Сили України
-              Донецький напрямок
+2023 – 2024      Infantry Platoon Commander · Ukrainian Armed Forces
+                 Combat veteran — operational discipline, risk assessment under pressure
 
-2015 – 2023   Мережевий інженер / Системний адміністратор
-              10+ років у телекомунікаційній інфраструктурі
+2018 – 2023      Network Technician · WinSERVICE Ukraine
+                 LAN/SCS infrastructure, routers, switches, fault diagnostics
 ```
 
 ---
 
-## Освіта
+## Education
 
-- **M.Sc.** Інтелектуальні системи управління — KHAI (2025–2027)
-- **B.Sc.** Економіка — KHAI (2002–2007)
+- **M.Sc.** Intelligent Control Systems & AI — KHAI (2025–2027, in progress)
+- **Military** Combat Application of Mechanized Units — National Army Academy (2023)
+- **B.Sc.** Economics — KHAI (2002–2007)
 
 ---
 
@@ -99,10 +102,10 @@ Android-додаток (Kotlin/MVVM) для аналізу Wi-Fi — evil twin, 
 
 <div align="center">
 
-**Відкритий до freelance-аудиту та консультацій**
+**Available for freelance security audits and consulting**
 
-📧 y.y.volovyk@student.khai.edu
+📧 volovykyevhen@icloud.com · 📱 +380751484207 (Telegram / WhatsApp)
 
-*Кожен аудит проводиться виключно з письмовим дозволом власника системи*
+*All audits are conducted exclusively with written authorization from the system owner*
 
 </div>
