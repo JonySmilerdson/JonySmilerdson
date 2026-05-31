@@ -7,7 +7,7 @@
 *6+ years in network infrastructure · Combat veteran, Ukrainian Armed Forces · M.Sc. KHAI 2025–2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-volovyk/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:volovykyevhen@icloud.com)
+[![Email](https://img.shields.io/badge/volovykyevhen%40icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yyvolovyk-1983-edu)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+380751484207)
 
