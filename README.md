@@ -2,7 +2,7 @@
 
 # Yevhen Volovyk
 
-### Network Security Auditor | MikroTik · Kyivstar | Kharkiv, Ukraine
+### n8n Automation | Workflow Expert | API Integration | Network Security Auditor | MikroTik · Kyivstar | Kharkiv, Ukraine
 
 *6+ years in network infrastructure · Combat veteran, Ukrainian Armed Forces · M.Sc. KHAI 2025–2027*
 
