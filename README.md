@@ -48,6 +48,9 @@ Deliverable: a structured technical report with vulnerability classification and
 
 ## Key Projects
 
+### [portfolio n8n] (https://github.com/yyvolovyk-1983-edu/n8n-automation-portfolio)
+A collection of production-ready n8n automation workflows covering AI, monitoring, lead generation, and messaging integrations.
+
 ### [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit)
 PowerShell-based Windows 11 security audit and hardening — 12 verification categories, automated remediation.
 
