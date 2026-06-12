@@ -96,6 +96,7 @@ Real-world network scanning lab — 8 Nmap scan types, DNS filtering with AdGuar
 | Introduction to Cybersecurity | Cisco NetAcad | [View PDF](https://drive.google.com/file/d/1az2_7ueMJT4zrpI_sEH-03zzrlsB3yTJ/view?usp=sharing) |
 | Networking Basics | Cisco NetAcad | [View PDF](https://drive.google.com/file/d/1rJ4mtr3V0CyVxoaOtGLD7Akw0Qup_5zD/view?usp=sharing) |
 | Endpoint Security | Cisco NetAcad | [View PDF](https://drive.google.com/file/d/1-j0jv65dAKR68vncLOCm3SXdJwerD6tL/view?usp=sharing) |
+| Network Defense | Cisco NetAcad | [View PDF](https://drive.google.com/file/d/1am7U1P0nXdAAEeysozCRmPLApcPj2ds-/view?usp=sharing) |
 
 ---
 
