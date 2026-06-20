@@ -35,11 +35,11 @@
 
 
 ```
-2024 – present   Freelance Field Network Engineer · Self-employed
+2025 – present   Freelance Field Network Engineer · Self-employed
                  On-site network audits, Cisco deployments, infrastructure diagnostics
                  Kharkiv & Eastern Ukraine region
 
-2024 – 2026      Telecommunications Engineer · Kyivstar
+2024 – 2025      Telecommunications Engineer · Kyivstar
                  Traffic analysis (Wireshark, tcpdump, nmap) on live ISP infrastructure
                  On-site field visits
 
