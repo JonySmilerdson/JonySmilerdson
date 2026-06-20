@@ -44,25 +44,7 @@ Deliverable: a structured technical report with vulnerability classification and
 
 </div>
 
----
 
-## Key Projects
-
-### [n8n automation workflows](https://github.com/yyvolovyk-1983-edu/n8n-automation-portfolio)
-A collection of production-ready n8n automation workflows covering AI, monitoring, lead generation, and messaging integrations.
-
-### [windows-security-audit](https://github.com/yyvolovyk-1983-edu/windows-security-audit)
-PowerShell-based Windows 11 security audit and hardening — 12 verification categories, automated remediation.
-
-### [router-security-toolkit](https://github.com/yyvolovyk-1983-edu/router-security-toolkit)
-Python tools for authorized router auditing — CVE detection, default credentials, UPnP, SSL.  
-*Case study: Xiaomi Mi Router AX1800 — 27 findings, security rating D → B+ in 48 hours.*
-
-### [wifi-security-auditor](https://github.com/yyvolovyk-1983-edu/wifi-security-auditor)
-Android app (Kotlin/MVVM) for Wi-Fi analysis — evil twin detection, encryption classification.
-
-### [network-security-lab](https://github.com/yyvolovyk-1983-edu/network-security-lab)
-Real-world network scanning lab — 8 Nmap scan types, DNS filtering with AdGuard Home.
 
 ---
 
