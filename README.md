@@ -2,9 +2,9 @@
 
 # Yevhen Volovyk
 
-### n8n Automation | Workflow Expert | API Integration | Network Engineer | Kharkiv, Ukraine
+### n8n Automation | Workflow Expert | API Integration | Network Security | Kharkiv, Ukraine
 
-*6+ years in network infrastructure · Combat veteran, Ukrainian Armed Forces · M.Sc. KHAI 2025–2027*
+*6+ years in network infrastructure · M.Sc. KHAI 2025–2027*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yevhen-volovyk/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+380751484207)
@@ -15,7 +15,7 @@
 
 ## What I do
 
-I conduct **authorized security audits** of networks and systems for small and medium businesses.  
+I conduct **authorized security audits** of networks and systems for small and medium businesses, including **on-site field visits**.  
 Deliverable: a structured technical report with vulnerability classification and remediation steps.
 
 | Scope | What I assess | Tools |
@@ -23,7 +23,23 @@ Deliverable: a structured technical report with vulnerability classification and
 | **LAN audit** | Open ports, services, network segmentation | nmap · Wireshark · Netdiscover |
 | **Wi-Fi security** | Encryption, isolation, rogue access points | Aircrack-ng · Android auditor |
 | **Network devices** | Routers, switches, MikroTik — default creds, CVEs | RouterOS · Python toolkit |
-| **Windows endpoints** | Services, autoruns, privileges, logging | PowerShell audit scripts |
+| **Windows endpoints** | Services, autoruns, privileges, event logging | PowerShell audit scripts |
+| **On-site field visits** | Physical network topology, workstation diagnostics, hardware inspection | On-site + remote follow-up |
+| **Endpoint hardening** | BitLocker, Secure Boot, TPM 2.0, BIOS hardening, hardware recovery (SSD + CMOS reset) | GParted · PowerShell · BIOS |
+
+---
+
+## Skills
+
+| Category | Skills |
+|---|---|
+| **Network security** | Port scanning, traffic analysis, DNS filtering (AdGuard Home), firewall hardening |
+| **Wireless** | WPA2/WPA3 audit, rogue AP detection, client isolation |
+| **Endpoint security** | Windows hardening, BitLocker, Secure Boot, TPM 2.0, autoruns, privilege audit |
+| **Incident response** | Malware/script infection — SSD physical extraction + GParted format (Linux USB), CMOS battery reset, BIOS factory restore, clean OS rebuild |
+| **Hardware recovery** | Hardware-level remediation when OS is fully compromised — no software layer trusted |
+| **Scripting** | PowerShell (12-category security audit), Python (network tools), Bash |
+| **Reporting** | Structured security reports, CVE classification, remediation roadmaps |
 
 ---
 
@@ -34,7 +50,6 @@ Deliverable: a structured technical report with vulnerability classification and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white)
@@ -44,8 +59,6 @@ Deliverable: a structured technical report with vulnerability classification and
 
 </div>
 
-
-
 ---
 
 ## Experience
@@ -53,9 +66,6 @@ Deliverable: a structured technical report with vulnerability classification and
 ```
 2024 – present   Telecommunications Engineer · Kyivstar
                  Traffic analysis (Wireshark, tcpdump, nmap) on live ISP infrastructure
-
-2023 – 2024      Infantry Platoon Commander · Ukrainian Armed Forces
-                 Combat veteran — operational discipline, risk assessment under pressure
 
 2018 – 2023      Network Technician · WinSERVICE Ukraine
                  LAN/SCS infrastructure, routers, switches, fault diagnostics
@@ -66,7 +76,6 @@ Deliverable: a structured technical report with vulnerability classification and
 ## Education
 
 - **M.Sc.** Intelligent Control Systems & AI — KHAI (2025–2027, in progress)
-- **Military** Combat Application of Mechanized Units — National Army Academy (2023)
 - **B.Sc.** Economics — KHAI (2002–2007)
 
 ---
@@ -86,8 +95,6 @@ Deliverable: a structured technical report with vulnerability classification and
 <div align="center">
 
 **Available for freelance security audits and consulting**
-
-📧 volovykyevhen@icloud.com · 📱 +380751484207 (Telegram / WhatsApp)
 
 *All audits are conducted exclusively with written authorization from the system owner*
 
