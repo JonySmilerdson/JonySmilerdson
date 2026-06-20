@@ -2,7 +2,7 @@
 
 # Yevhen Volovyk
 
-### Field Network Engineer | Security Auditor | n8n Automation | Kharkiv, Ukraine
+### Freelance Field Network Engineer | Security Auditor | n8n Automation | Kharkiv, Ukraine
 
 *6+ years in network infrastructure · M.Sc. KHAI 2025–2027*
 
